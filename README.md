@@ -10,4 +10,3 @@ este es el link: https://lidtol.github.io/Portfolio/
 
 Y su ruta relativa es: ".github/workflows/static.yml"
 
-Prueba temporal de protección2
