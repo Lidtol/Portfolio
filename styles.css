@@ -17,8 +17,8 @@
   --cabecera-texto: #ffffff;
   --cabecera-suave: #b4bac8;
 
-  --ancho: 72rem;        /* ancho máximo del contenido */
-  --margen: 2rem;        /* margen lateral mínimo */
+  --ancho: 72rem; /* ancho máximo del contenido */
+  --margen: 2rem; /* margen lateral mínimo */
   --radio: 6px;
 }
 
@@ -49,7 +49,12 @@ body {
   margin: 0;
   background: var(--fondo);
   color: var(--texto);
-  font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  font-family:
+    system-ui,
+    -apple-system,
+    "Segoe UI",
+    Roboto,
+    sans-serif;
   font-size: 1.0625rem;
   line-height: 1.7;
 }
